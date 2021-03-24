@@ -1,0 +1,27 @@
+nav ul{
+    list-style: none;
+    
+}
+nav ul li{
+    display: inline-block;
+    padding: 20px 20px;
+    background-color: aqua;
+    color: red;
+}
+.one{
+        width: 900px;
+        height: 900px;
+        background-color:rgb(255, 94, 0);
+    }
+.two{
+        width: 900px;
+        height: 450px;
+        background-color:rgb(68, 0, 255);
+        float: left;
+    }
+.three{
+        width: 450px;
+        height: 450px;
+        background-color:rgb(81, 255, 0);
+        float: left;
+    }
